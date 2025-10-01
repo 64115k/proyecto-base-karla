@@ -7,8 +7,12 @@ def main():
     op.raiz()
     op.mostrarResultado()
 
+    op.mayorque()
+    op.mostrarResultado()
+
     op.potencia()
     op.mostrarResultado()
+
 
  
 if __name__ == "__main__":
